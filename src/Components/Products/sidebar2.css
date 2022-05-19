@@ -1,0 +1,19 @@
+.entire2{
+    margin-top: -1050px;
+    padding-top: 30px;
+    background-color: dodgerblue;
+    width: 350px;
+    height: 1490px;
+    margin-left: -1350px;
+}
+.entire-item2{
+    margin-top: 150px;
+    list-style: none;
+}
+.entire-item2:hover{
+    cursor: pointer;
+}
+.enormico2{
+    font-size: 50px;
+    list-style: none;
+}

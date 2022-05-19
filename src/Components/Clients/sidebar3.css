@@ -1,0 +1,18 @@
+.entire3{
+    margin-top: -1020px;
+    padding-top: 30px;
+    background-color: dodgerblue;
+    width: 350px;
+    height: 1040px;
+}
+.entire-item3{
+    margin-top: 100px;
+    list-style: none;
+}
+.entire-item3:hover{
+    cursor: pointer;
+}
+.enormico3{
+    font-size: 50px;
+    list-style: none;
+}
